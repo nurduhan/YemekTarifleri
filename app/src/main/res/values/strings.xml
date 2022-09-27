@@ -1,0 +1,1344 @@
+<resources>
+    <string name="app_name">Yemek Tarifleri</string>
+
+
+    <string name="mercimekCorbaMalzemeler">
+        <![CDATA[\n
+        -> 2 su bardağı kırmızı mercimek\n
+        -> 1 adet soğan\n
+        -> 2 yemek kaşığı un\n
+        -> 1 adet havuç\n
+        -> Yarım yemek kaşığı biber ya da domates salçası(isteğe bağlı)\n
+        -> 1 tatlı kaşığı tuz\n
+        -> Yarım çay kaşığı karabiber\n
+        -> 1 çay kaşığı kimyon(isteğe bağlı)\n
+        -> 2 litre sıcak su\n
+        -> 5 yemek kaşığı sıvı yağ\n
+        \n
+        Sosu için:\n
+        \n
+        -> 2 yemek kaşığı tereyağı\n
+        -> 1 tatlı kaşığı toz biber\n
+        ]]>
+    </string>
+    <string name="mercimekCorbaYapilisi">
+        <![CDATA[\n
+        1) Kırmızı mercimek çorbası için sıvı yağı tencereye alınarak yemeklik doğranan soğanlar hafif pembeleşinceye kadar kavrulur.\n\n
+        2) Daha sonra un ilave edilerek kısık ateşte kavurmaya devam edilir.\n\n
+        3) Salça kullanılacak ise salça ilave edilir, kavrulduktan sonra küp küp doğranmış havuç ve iyice yıkanıp suyu süzülen mercimekler ilave edilir.\n\n
+        4) Üzerine su eklenerek karıştırılır ve tencerenin kapağı kapatılır. Çorbamız kaynayana kadar orta ateşte, kaynadıktan sonra mercimekler ve havuçlar yumuşayana kadar ara ara karıştırılarak kısık ateşte pişirilir.\n\n
+        5) Çorba piştikten sonra el blenderı ile güzelce ezilir. Eğer blenderınız yoksa süzgeçten de geçirebilirsiniz.\n\n
+        6) Karabiber, tuz ve isteğe bağlı olarak kimyon eklenir ve karıştırılır. 5 dakika daha pişirelerek ocaktan alınır.\n\n
+        7) Kıvamı koyu gelirse size, bir miktar su ilave edilerek bir taşım kaynatılır.\n\n
+        8) Bu arada küçük bir tavaya iki yemek kaşığı tereyağı alınır, kızdırılır ve bir tatlı kaşığı kırmızı toz biber eklenerek ocaktan alınır.\n\n
+        9) Mercimek çorbası servis kasesine alındıktan sonra üzerine kırmızı biberli sos gezdirilir ve bir dilim limon ile servis edilir.\n
+        ]]>
+    </string>
+
+
+    <string name="yaylaCorbaMalzemeler">
+        <![CDATA[\n
+        -> 1 çay bardağı pirinç\n
+        -> 3 su bardağı su\n
+        -> 3 su bardağı sıcak su(tavuk veya kemik suyu)\n
+        -> Tuz\n
+        \n
+        Terbiyesi için:\n
+        \n
+        -> 1 adet yumurta sarısı\n
+        -> 1,5 su bardağı yoğurt\n
+        -> 1 yemek kaşığı un\n
+        \n
+        Sosu için:\n
+        \n
+        -> 2 yemek kaşığı tereyağı\n
+        -> 1 yemek kaşığı kuru nane\n
+        ]]>
+    </string>
+    <string name="yaylaCorbaYapilisi">
+        <![CDATA[\n
+        1) Yayla çorbası için ilk olarak pirinçler yıkanarak suda yumuşayıncaya kadar haşlanır.\n\n
+        2) Yayla çorbamızın terbiyesi için diğer taraftan yumurta sarısı, yoğurt, un bir kasede iyice çırpılır.\n\n
+        3) Pişen pirinçlere varsa et ya da kemik suyu yoksa 3 su bardağı sıcak su ilave edilir.\n\n
+        4) Çorbanın suyundan 1-2 kepçe alınarak yavaş yavaş alınıp terbiyeye ilave edilir.\n\n
+        5) Hafifçe sulanan bu karışım ılınmış olan çorbaya ilave edilir ve 1-2 taşım kaynatılır.\n\n
+        6) En son tuzu ilave edilir, bir kaç dakika daha kaynatılarak ocak kapatılır.\n\n
+        7) Üzerine sos için kuru nane eritilmiş tereyağında kızdırılarak gezdirilir ve servise hazır hale getirilir.\n
+        ]]>
+    </string>
+
+
+    <string name="domatesCorbaMalzemeler">
+        <![CDATA[\n
+        -> 4-5 adet olgun domates\n
+        -> 2 çorba kaşığı tereyağı\n
+        -> 3 çorba kaşığı un\n
+        -> 1 litre sıcak su\n
+        -> 1 su bardağı süt\n
+        -> 1 çorba kaşığı rendelenmiş taze kaşar\n
+        ]]>
+    </string>
+    <string name="domatesCorbaYapilisi">
+        <![CDATA[\n
+        1) Domates çorbası yapmak için yağ ve un bir tencerede hafifçe kavrulur.\n\n
+        2) Diğer taraftan kabuğu çıkarılıp, küp küp kesilmiş domates robottan geçirilip bu karışıma ilave edilir, birkaç dakika kavrulur.\n\n
+        3) Ara verilmeden bir litre kadar su ilave edilip karıştırma işlemini sürdürülür. 15 dakika bu şekilde kaynatılır.\n\n
+        4) Daha sonra süt ilave edilip birkaç dakika daha kaynatılarak tuzu ilave edilip ocaktan alınır.\n\n
+        5) Arzuya göre servis yaparken üzerine kaşar peyniri rendesi ilave edilir.\n
+        ]]>
+    </string>
+
+
+    <string name="yogurtCorbaMalzemeler">
+        <![CDATA[\n
+        -> 1 su bardağı yoğurt\n
+        -> 3 tepeleme yemek kaşığı un\n
+        -> 5 su bardağı su\n
+        -> 1 çay bardağı erişte\n
+        -> 1 silme tatlı kaşığı tuz\n
+        \n
+        Sosu için:\n
+        \n
+        -> 1 yemek kaşığı tereyağı\n
+        -> 1 tatlı kaşığı kırmızı toz biber\n
+        -> 1 tatlı kaşığı nane\n
+        ]]>
+    </string>
+    <string name="yogurtCorbaYapilisi">
+        <![CDATA[\n
+        1) Öncelikle tencereye yoğurt, un ve su ilave edilerek tel çırpıcı yardımı ile pürüzsüz bir kıvam alana kadar çırpılır.\n\n
+        2) Ardından tencere orta ateşte kaynayana kadar pişirilir.\n\n
+        3) Çorba kaynadıktan sonra erişte eklenir ve kısık ateşte ara ara karıştırılarak şehriyeler yumuşayıncaya kadar pişirilir.\n\n
+        4) Tuz eklendikten sonra 1-2 dakika daha kaynatılır ve sonrasında çorba 10 dakika kadar dinlenmeye bırakılır.\n\n
+        5) Sosu için bir sos tavasında tereyağı eritilir.\n\n
+        6) Üzerine pul biber ile nane eklenerek kızdırılır ve ocaktan alınır. Bu aşamada ocağı yüksek ateşte açmamaya dikkat edilmelidir.\n\n
+        7) Çorba kaselere alınır ve üzerine sostan gezdirerek servis edilir.\n
+        ]]>
+    </string>
+
+
+    <string name="mantarCorbaMalzemeler">
+        <![CDATA[\n
+        -> 2 adet kuru soğan\n
+        -> 10 adet mantar\n
+        -> 4 yemek kaşığı sıvı yağ\n
+        -> 1 yemek kaşığı tereyağı\n
+        -> 2 yemek kaşığı un\n
+        -> 1 litre sıcak su\n
+        -> 1 su bardağı süt\n
+        -> Yarım çay kaşığı karabiber\n
+        -> 1 tatlı kaşığı tuz\n
+        \n
+        Sosu için:\n
+        \n
+        -> 1 yemek kaşığı tereyağı\n
+        -> 1 tatlı kaşığı kırmızı toz biber\n
+        ]]>
+    </string>
+    <string name="mantarCorbaYapilisi">
+        <![CDATA[\n
+        1) Öncelikle soğanlar ince ince doğranır.\n\n
+        2) Ardından mantarlar minik minik doğranır. Bu aşamada dilenirse mantarlar yıkanabilir ve silinebilir.\n\n
+        3) Tencereye sıvı yağ ve tereyağı alınarak erimesi için beklenir.\n\n
+        4) Eridikten sonra soğanlar eklenir ve hafif pembeleşene kadar kavrulur.\n\n
+        5) Mantarlar da eklenir ve orta ateşte mantarlar suyunu salıp çekinceye kadar kavrulur.\n\n
+        6) Daha sonra un ilave edilir ve unun kokusu çıkana kadar kavrulur.\n\n
+        7) Bir taraftan karıştırılırken bir taraftan da su eklenir ve orta ateşte çorba kaynamaya bırakılır.\n\n
+        8) Çorba kaynadıktan sonra altı kısılır. Oda ısısındaki süt ve karabiber ilave edilerek karıştırılır ve kaynamaya bırakılır.\n\n
+        9) Son kez tuz eklenir ve karıştırılarak çorba ocaktan alınır.\n\n
+        10) Çorbanın sosu için tavaya tereyağı alınır ve eritilir.\n\n
+        11) Eriyen tereyağına kırmızı toz biber eklenerek kızdırılır ve ocaktan alınır.\n\n
+        12) Çorba kaselere konulduktan sonra üzerine sos gezdirilir.\n
+        ]]>
+    </string>
+
+
+    <string name="telSehriyeliTarhanaCorbaMalzemeler">
+        <![CDATA[\n
+        -> 5 yemek kaşığı sıvı yağ\n
+        -> 1 yemek kaşığı tereyağı\n
+        -> 1 yemek kaşığı domates salçası(isteğe bağlı)\n
+        -> 1 tatlı kaşığı tuz\n
+        -> 1 tatlı kaşığı nane(isteğe bağlı)\n
+        -> 1 çay kaşığı pul biber\n
+        -> 1 çay kaşığı karabiber\n
+        -> 6 yemek kaşığı tarhana\n
+        -> 8 su bardağı su\n
+        -> Yarım çay bardağı tel şehriye\n
+        ]]>
+    </string>
+    <string name="telSehriyeliTarhanaCorbaYapilisi">
+        <![CDATA[\n
+        1) Tencereye sıvı yağ ve tereyağı alınarak eritilir.\n\n
+        2) Yağ eridikten sonra salça, tuz, nane, pul biber ve karabiber eklenerek orta ateşte salçanın kokusu çıkana kadar kavrulur. İsteğe göre salça kullanılmayabilir.\n\n
+        3) Kavrulan salçanın üzerine tarhana ilave edilir ve karıştırılır.\n\n
+        4) Ardından su eklenir. İsteğe göre suyun bir kısmına et suyu ilave edilebilir.\n\n
+        5) Tel çırpıcı ile çorba sürekli karıştırılarak kaynayana kadar pişirilir.n\n
+        6) Kaynadıktan sonra şehriyeler eklenir ve kısık ateşte ara ara karıştırılarak şehriyeler yumuşayana kadar pişirilir. Bu aşamadan sonra çorba servise hazır hale gelir.\n
+        ]]>
+    </string>
+
+
+    <string name="brokoliCorbaMalzemeler">
+        <![CDATA[\n
+        -> 500 gr brokoli\n
+        -> 1 adet havuç\n
+        -> 1 adet orta boy patates\n
+        -> 1 adet soğan\n
+        -> Üzerini geçecek kadar sıcak su\n
+        -> 2 su bardağı süt\n
+        -> 1 çay bardağı süt kreması\n
+        -> 2 yemek kaşığı tereyağ\n
+        -> 1 yemek kaşığı un\n
+        -> Tuz\n
+        -> Karabiber\n
+        ]]>
+    </string>
+    <string name="brokoliCorbaYapilisi">
+        <![CDATA[\n
+        1) Temizlenip yıkanan brokoli, küp küp doğranan patates, halka halka dilimlenmiş havuc ve doğranan soğan bir tencereye konulur.\n\n
+        2) Üzerini geçecek kadar su ilave edilerek sebzeler yumuşayana kadar haşlanır.\n\n
+        3) Başka bir tencerede tereyağı eritilir ve un eklenerek kavrulur.\n\n
+        4) Üzerine süt ilave edilip karıştırılarak beşamel sos pişirilir.\n\n
+        5) Sebzeler beşamel sosun üzerine ilave edilerek ve haşlama suyunun da yarısı kadarı tencereye alınarak blender ile güzelce ezilir.n\n
+        6) Kıvamı koyu olursa kalan haşlama suyundan ilave edilerek kıvam ayarlanır.\n\n
+        7) Tuz ve karabiber eklenerek 3-4 dakika kadar kaynatılır.\n\n
+        8) Son olarak çorbanın süt kreması ilave edilir ve 1-2 taşım kaynatıldıktan sonra çorba hazır hale getirilir.\n
+        ]]>
+    </string>
+
+
+    <string name="patatesCorbaMalzemeler">
+        <![CDATA[\n
+        -> 2 adet patates\n
+        -> 1 adet soğan\n
+        -> 3 diş sarımsak\n
+        -> 2 yemek kaşığı sıvı yağ\n
+        -> 1 litre su\n
+        -> 1 çay bardağı yoğurt\n
+        -> 1 yemek kaşığı un\n
+        -> 1 adet yumurta sarısı\n
+        -> Birkaç damla limon\n
+        -> Tuz\n
+        \n
+        Üzeri için:\n
+        \n
+        -> Tereyağı\n
+        -> Pul biber\n
+        ]]>
+    </string>
+    <string name="patatesCorbaYapilisi">
+        <![CDATA[\n
+        1) Öncelikle soğan ve sarımsak ince ince doğranıp sıvı yağda pembeleşinceye kadar kavrulur.\n\n
+        2) Ardından küp küp doğranan patatesler eklenip patatesler yumuşayıncaya kadar kavurmaya devam edilir.\n\n
+        3) Yaklaşık 10 dakika sonra suyu eklenip kaynamaya bırakılır.\n\n
+        4) Diğer yandan meyanesi için yoğurt, un, yumurta sarısı ve limon çırpılır.\n\n
+        5) Çorba kaynayınca meyanesi eklenip pişmeye bırakılır.n\n
+        6) Piştikten sonra üzerine tereyağı ve pul biber eklenip servis edilir.\n
+        ]]>
+    </string>
+
+
+    <string name="kabakCorbaMalzemeler">
+        <![CDATA[\n
+        -> 2 adet yeşil kabak\n
+        -> 2 yemek kaşığı un(tepeleme)\n
+        -> 1 yemek kaşığı dolusu tereyağı\n
+        -> 1 yemek kaşığı sıvı yağ\n
+        -> 3 su bardağı süt\n
+        -> 4 su bardağı su\n
+        -> Bir tutam dereotu\n
+        -> Tuz\n
+        -> Pul biber\n
+        -> Karabiber\n
+        -> Nane\n
+        ]]>
+    </string>
+    <string name="kabakCorbaYapilisi">
+        <![CDATA[\n
+        1) Tereyağı ve sıvı yağ tencereye konulup eritilir.\n\n
+        2) Un ilave edilip kokusu çıkana kadar bir kaç dakika kavrulur.\n\n
+        3) Bir taraftan çırpma teliyle hızlıca çırpılıp diğer taraftan süt ilave edilir.\n\n
+        4) Kabakların kabukları soyulup doğranır.\n\n
+        5) Su ilave edilip kaynamaya başlayana kadar iyice karıştırılır.\n\n
+        6) Kaynamaya başlayınca kabukları soyulup doğranan kabaklar ilave edilerek kabaklar yumuşayana kadar pişirilir.n\n
+        7) Blender dan geçirilerek tuzu, dereotu ve baharatları ilave edilip servise hazır hale getirilir.\n\n
+        8) Çorbanın kıvamı kullanılan kabakların büyüklüğüne göre değişebilir. Kıvam koyu olursa su ile ayarlanıp pişirilebilir.\n
+        ]]>
+    </string>
+
+
+    <string name="hanimAgaCorbaMalzemeler">
+        <![CDATA[\n
+        -> 6 su bardağı su\n
+        -> 2 çorba kaşığı sıvı yağ\n
+        -> 1 çorba kaşığı salça\n
+        -> 1 adet soğan\n
+        -> 1 çay kaşığı çeşni veya 1 adet bulyon\n
+        -> 1 çay bardağı haşlanmış nohut\n
+        -> 1 çay bardağı haşlanmış yeşil mercimek\n
+        -> 1 çay bardağı erişte\n
+        -> Yarım çay bardağı tel şehriye\n
+        \n
+        Üzeri için:\n
+        \n
+        -> 2-3 dal maydanoz\n
+        -> 1 çorba kaşığı tereyağ\n
+        -> 1 çay kaşığı nane\n
+        ]]>
+    </string>
+    <string name="hanimAgaCorbaYapilisi">
+        <![CDATA[\n
+        1) Soğan ince ince rendelenir.\n\n
+        2) Tencereye sıvı yağ konulup soğan kısık ateşte yumuşayana kadar kavrulur.\n\n
+        3) Salça eklenip bir iki tur çevrilip suyu eklenir.\n\n
+        4) İsteğe bağlı toz çeşni yada 1 adet bulyon atılır. Eğer ikisi de koyulmak istenmezse 1 çay kaşığı tuz atılır.\n\n
+        5) Isınmaya başlayınca erişte ve şehriye eklenerek kaynamaya bırakılır.\n\n
+        6) Kaynamaya başlayınca haşlanmış nohut eklenir.n\n
+        7) 3-4 dakika kısık ateşte kaynadıktan sonra haşlanmış mercimek ilave edilir ve 3-4 dakika daha kaynatılıp altı kapatılır.\n\n
+        8) Maydanoz ince ince kıyılıp eklenir ve karıştırılıp kapağı kapatılır.\n\n
+        9) 5 dakika sonra tereyağ kızdırılıp nane yakılır ve çorbaya ilave edip karıştırılarak servise hazır hale getirilir.\n
+        ]]>
+    </string>
+
+
+    <string name="mahlutaCorbaMalzemeler">
+        <![CDATA[\n
+        -> 1 su bardağı kırmızı mercimek\n
+        -> 1 yemek kaşığı bulgur\n
+        -> 1 yemek kaşığı pirinç\n
+        -> 1 adet havuç\n
+        -> 1 adet soğan\n
+        -> 1 tatlı kaşığı tuz\n
+        -> 8 su bardağı sıcak su\n
+        \n
+        Terbiyesi için:\n
+        \n
+        -> 1 adet yumurta sarısı\n
+        -> 2 yemek kaşığı yoğurt\n
+        \n
+        Sosu için:\n
+        \n
+        -> 4 yemek kaşığı sıvı yağ\n
+        -> 2 yemek kaşığı salça\n
+        -> 2 yemek kaşığı nar ekşisi\n
+        -> 1 çay kaşığı kimyon\n
+        -> 1 çay kaşığı nane\n
+        -> 1 çay kaşığı pul biber\n
+        ]]>
+    </string>
+    <string name="mahlutaCorbaYapilisi">
+        <![CDATA[\n
+        1) Düdüklü tencereye kırmızı mercimek, bulgur, pirinç, rendelenmiş havuç, doğranmış soğan, tuz ve sıcak suyu konularak karıştırılır.\n\n
+        2) Düdüklü tencerenin kapağı kapatılarak kaynadıktan sonra kısık ateşte 15 dakika pişirilir.\n\n
+        3) Terbiyesi için yumurta sarısı ve yoğurt bir kaba alınarak karıştırılır.\n\n
+        4) Pişen çorba blender ile hafif dişe gelecek şekilde ezilir.\n\n
+        5) Çorbanın suyundan 2-3 kepçe kadar alınarak terbiyeye katıp çırpılır ve ardından çorbaya ilave edilerek karıştırılır.\n\n
+        6) Sosu için tavaya sıvı yağ ve salça alınarak kavrulur.\n\n
+        7) Nar ekşisi, kimyon, nane ve pul biber eklenerek karıştırılır ve ocaktan alınır.\n\n
+        8) Hazırlanan sos çorbaya ilave edilerek güzelce karıştırıldıktan sonra çorba servise hazır hale getirilir.\n
+        ]]>
+    </string>
+
+
+    <string name="analiKizliCorbaMalzemeler">
+        <![CDATA[\n
+        İç harcı için:\n
+        \n
+        -> 200 gr yağsız koyun kıyması\n
+        -> 2 adet soğan\n
+        -> 1 tatlı kaşığı kırmızı pul biber\n
+        -> 1 tatlı kaşığı biber salçası\n
+        -> 100 gr tereyağı\n
+        -> Tuz\n
+        -> Karabiber\n
+        \n
+        Dış harcı için:\n
+        \n
+        -> 250 gr dövmelik dana eti\n
+        -> 2.5 su bardağı ince siyah bulgur\n
+        -> 1 adet yumurta\n
+        -> 1 çay bardağı irmik\n
+        -> 6 yemek kaşığı dolusu un\n
+        -> 1 çay kaşığı kimyon\n
+        -> 2 tatlı kaşığı biber salçası\n
+        -> 2 çay kaşığı tuz\n
+        -> 1.5 su bardağı su\n
+        \n
+        Çorba suyu için:\n
+        \n
+        -> 50 gr tereyağı\n
+        -> 1 adet büyük soğan\n
+        -> 1.5 tatlı kaşığı domates salçası\n
+        -> 1 tatlı kaşığı biber salçası\n
+        -> 1 orta boy kase haşlanmış nohut\n
+        -> Tuz\n
+        -> Karabiber\n
+        -> 10-12 bardak et suyu(isteğe göre normal su da konulabilir)\n
+        -> 1 adet limon suyu\n
+        -> 1 tatlı kaşığı kuru nane\n
+        ]]>
+    </string>
+    <string name="analiKizliCorbaYapilisi">
+        <![CDATA[\n
+        1) Bir tencereye kıyma koyulur ve suyunu salıp çekene kadar kavrulur.\n\n
+        2) Suyunu çekmesine yakın küçük küçük doğranılan soğanlar eklenir ve iyice suyu çektirilir.\n\n
+        3) Ardından salçası, tereyağı ve baharatları eklenip iyice kavrulur. Kavrulan kıyma tepsiye dökülüp soğutulur.\n\n
+        4) Dış harcı için dana eti et dövme makinasında iyice dövülür(Makine yoksa kasapta 3 kez çektirilebilir). Bulgur geniş kenarlı bir tepsiye koyulur.\n\n
+        5) Üzerine yarım bardak su döküp karıştırılır ve 5-10 dakika bekletilir. Daha sonra yumurtayı kırıp irmik, dövülmüş et eklenir ve yoğurmaya başlanır.\n\n
+        6) Yoğururken salçalar eklenir ve iyice özdeşleşene kadar yoğrulur. Arada biraz su ekleyerek yoğurmaya devam edilir.\n\n
+        7) En son un ve baharatlar eklenip, yumuşak bir köfte hamuru elde edinceye kadar yoğrulur.n\n
+        8) Anaları için ceviz büyüklüğünde parçalar kopartılıp yuvarlanır ve parmak uçlarıyla yuvarlanılan hamurun içi mümkün olduğunca ince olacak şekilde oyulur.\n\n
+        9) Hamurun içine kavrulan kıymadan 1.5 tatlı kaşığı kadar konur ve hamur yuvarlayıp kapatılır.\n\n
+        10) Kıyma harcı bitene kadar bütün hamurdan köfte büyüklüğünde kıymalı toplar hazırlanarak bir tepside biriktirilir.\n\n
+        11) Daha sonra kalan köfte hamurundan nohut büyüklüğünde toplar(kızlar) hazırlanıp onlar da bir tepside biriktirilir.\n\n
+        12) Suyu için büyük bir tencereye tereyağı koyulur ve üstüne küçük yemeklik doğranmış soğan eklenir. Kavrulurken salçalar da eklenerek hafif kavrulur.\n\n
+        13) Daha sonra et suyu ilave edilip biraz kaynayınca nohutlar, tuz ve karabiber eklenir. En son limon suyu eklenir.\n\n
+        14) Bunlar kaynarken önce yapılmış olan ufak köfteler(kızlar), 5 dakika sonra da büyük köfteler(analar) eklenir.\n\n
+        15) Analar suyun üstüne çıkınca çorbanın altı kapatılır ve kuru nane ilave edip karıştırılarak servise hazır hale getirilir.\n
+        ]]>
+    </string>
+
+
+    <string name="havucCorbaMalzemeler">
+        <![CDATA[\n
+        -> 2 adet havuç\n
+        -> 1 su bardağı su\n
+        -> 3-4 su bardağı tavuk suyu\n
+        \n
+        Terbiyesi için:\n
+        \n
+        -> 1 su bardağı süt\n
+        -> 1 yumurta sarısı\n
+        -> 1 kahve fincanı kadar un\n
+        -> Tuz\n
+        -> Karabiber\n
+        -> Zeytinyağı\n
+        \n
+        Üzeri için:\n
+        \n
+        -> Pul biber\n
+        ]]>
+    </string>
+    <string name="havucCorbaYapilisi">
+        <![CDATA[\n
+        1) Öncelikle havuçlar rendelenip tencerede az yağ ile sotelenir.\n\n
+        2) Ardından tencereye 3 bardak tavuk suyu ekleyip haşlatılır.\n\n
+        3) Blender dan geçirilerek püre haline getirilir.\n\n
+        4) Ayrı bir tencerede terbiye hazırlanır.\n\n
+        5) Un ve zeytinyağı unun kokusu gidene kadar 3-4 dakika kavrulur.\n\n
+        6) Soğuk süt azar azar ilave edilir.\n\n
+        7) Yumurta sarısı eklenip tel çırpıcıyla sürekli karıştırılır. Topaklanmamasına dikkat edilmelidir.\n\n
+        8) Hazırlanan terbiye azar azar havuç püresine ilave edilir.\n\n
+        9) Tuz ve çekilmiş karabiber eklenerek kaynayana kadar karıştırılır. Tavuk suyunun az gelmesi durumunda ilave yapılabilir.\n\n
+        10) Servise hazır hale getirilen çorbanın üzerine dilenirse pul biber eklenebilir.\n
+        ]]>
+    </string>
+
+
+    <string name="lebeniyeCorbaMalzemeler">
+        <![CDATA[\n
+        -> 2 yemek kaşığı pirinç\n
+        -> 1 su bardağı haşlanmış nohut\n
+        -> 1.5 su bardağı yoğurt\n
+        -> 2 yemek kaşığı un\n
+        -> Tuz\n
+        -> Yarım limon suyu\n
+        -> 5.5 su bardağı su\n
+        \n
+        Üzeri için:\n
+        \n
+        -> 200 gr kıyma\n
+        -> 1 adet soğan\n
+        -> Tuz\n
+        -> Karabiber\n
+        -> 2 yemek kaşığı tereyağ\n
+        -> 1 tatlı kaşığı nane\n
+        ]]>
+    </string>
+    <string name="lebeniyeCorbaYapilisi">
+        <![CDATA[\n
+        1) Pirinç yıkanarak 1 su bardağı su ile pişirilir.\n\n
+        2) Pişen pirinçlerin üzerine kalan 4.5 su bardağı su ilave edilip kaynatılır.\n\n
+        3) Kaynadıktan sonra nohutlar eklenir.\n\n
+        4) Bir kasede yoğurt, un ve limon suyu karıştırılır.\n\n
+        5) Kaynayan çorbadan 1 kepçe kaseye alınarak karıştırılır ve bu karışım tekrar çorbaya dökülerek karıştırılır.\n\n
+        6) Köftesi için kıyma, soğan, tuz ve karabiber yoğrularak nohut büyüklüğünde toplar yapılır.\n\n
+        7) Tereyağında köfteler kızartılıp üzerine nane eklenerek pişen çorbanın üzerinde gezdirilir ve servise hazır hale getirilir.\n
+        ]]>
+    </string>
+
+
+    <string name="peynirliPatlicanMalzemeler">
+        <![CDATA[\n
+        -> 4 adet patlıcan\n
+        \n
+        Üzeri için:\n
+        \n
+        -> Zeytinyağı\n
+        -> Tuz\n
+        \n
+        Domates sosu için:\n
+        \n
+        -> 3 adet domates\n
+        -> 4.5 diş sarımsak\n
+        -> Az sıvı yağ\n
+        -> Tuz\n
+        -> Karabiber\n
+        -> Toz kırmızı biber\n
+        -> Kimyon\n
+        \n
+        Peynirli sos için:\n
+        \n
+        -> 2 yumurta\n
+        -> Dereotu ve maydanoz karışımı\n
+        -> 150 gr beyaz peynir\n
+        -> 1 çay bardağı rendelenmiş kaşar peynir\n
+        ]]>
+    </string>
+    <string name="peynirliPatlicanYapilisi">
+        <![CDATA[\n
+        1) Patlıcanlar uzunlamasına ortadan ikiye kesilir.\n\n
+        2) Fırın tepsisine alınıp üzerine fırça ile zeytinyağı sürülür ve tuz serpilir.\n\n
+        3) Patlıcanların üzerleri güzelce kızarıp yumuşayana kadar fırınlanır.\n\n
+        4) Diğer yandan küp şeklinde doğranmış domates ve rende sarımsak biraz sıvı yağ ile sotelenir.\n\n
+        5) Baharatlar eklenerek suyunu hafif çekene kadar pişirilir.\n\n
+        6) Fırından çıkan patlıcanların ortaları bir çatal yardımı ile ezilir.\n\n
+        7) Domates sosu her birine pay edilir.\n\n
+        8) Maydanoz ve dereotu ince kıyılarak yumurtaya eklenip bir kase kadar peynir de eklenerek karıştırılır.\n\n
+        9) Bunlar da patlıcanlara pay edilerek 180 derecede üzerleri kızarana kadar fırına verilir ve hazır hale getirilir.\n
+        ]]>
+    </string>
+
+
+    <string name="zeytinyagliLahanaSarmasiMalzemeler">
+        <![CDATA[\n
+        -> 1 adet 1700 gr sarmalık lahana\n
+        \n
+        İç malzemesi:\n
+        \n
+        -> 2 su bardağı pirinç\n
+        -> 2 tepeli dolusu yemek kaşığı domates salçası\n
+        -> 1 çay bardağı sıvı yağ\n
+        -> 1 büyük boy kuru soğan\n
+        -> 3-5 diş ezilmiş sarımsak\n
+        -> 2 tatlı kaşığı kuru nane\n
+        -> 1 tatlı kaşığı pul biber\n
+        -> 2 tatlı kaşığı karabiber\n
+        -> 1 tatlı kaşığı toz biber\n
+        -> 1 tatlı kaşığı tuz\n
+        -> 1 kahve fincanı su\n
+        \n
+        Üzeri için:\n
+        \n
+        -> 1 yemek kaşığı domates salçası\n
+        -> 2.5 su bardağı su\n
+        -> Çeyrek su bardağı sıvı yağ\n
+        ]]>
+    </string>
+    <string name="zeytinyagliLahanaSarmasiYapilisi">
+        <![CDATA[\n
+        1) Öncelikle lahananın kök kısmı bıçak ile oyulup çıkarılır ve büyükçe bir tencereye bolca su ekleyip kaynatılır.\n\n
+        2) 1 yemek kaşığı tuz ilave edilir ve lahananın yaprakları teker teker ayırılarak kaynayan suya teker teker bırakılıp 1-2 dakika kadar haşlanır.\n\n
+        3) Haşlanan yapraklar sıcak sudan alınıp soğuk suya bırakılır.\n\n
+        4) İç harcı için tavaya sıvı yağ alınıp ısıtılır. Yemeklik doğranmış kuru soğanı ilave edilir ve soğanlar hafif renk değiştirene kadar kavrulur.\n\n
+        5) Üzerine salça ilave edilir ve bir iki defa çevirdikten sonra yıkanmış olan pirinç, rendelenmiş sarımsak ve baharatlar eklenerek bir kaç tur karıştırılır.\n\n
+        6) Bir kahve fincanı su ilave edilip karıştırılarak suyunu çekmesi sağlanır. Ardından iç harç soğumaya bırakılır.\n\n
+        7) Lahananın yapraklarının sert olan damarlı kısımları bıçakla kesilip alınır ve avuç içi büyüklüğünde parçalara bölünür.\n\n
+        8) Daha sonra iç harçtan bir tatlı kaşığı alınıp bir yaprak içine eklenir ve yuvarlayıp parmak şeklinde sarılır. Bütün iç harç ve yapraklar bu şekilde hazırlanır.\n\n
+        9) Ardından sos malzemeleri bir kapta ezilip çırparak sarmaların üzerine gezdirilir.\n\n
+        10) 2 bardak su ilave edilip kapak kapatılır ve ocak üzerine alınır.\n\n
+        11) Orta ateşte kaynamaya bırakılır, kaynama noktasına geldikten sonra ocak tamamen kısılır ve pirinçler yumuşayana kadar yaklaşık 55-60 dakika pişirilir.\n
+        ]]>
+    </string>
+
+
+    <string name="firindaTavukKanatMalzemeler">
+        <![CDATA[\n
+        -> 11 adet dondurulmuş piliç bütün kanat\n
+        \n
+        Sosu için:\n
+        \n
+        -> 5 yemek kaşığı yoğurt\n
+        -> Yarım çay bardağı zeytinyağı\n
+        -> 1 tatlı kaşığı kırmızı toz biber\n
+        -> 1 tatlı kaşığı kekik\n
+        -> 1 çay kaşığı karabiber\n
+        -> 1 tatlı kaşığı tuz\n
+        -> 2 diş sarımsak\n
+        ]]>
+    </string>
+    <string name="firindaTavukKanatYapilisi">
+        <![CDATA[\n
+        1) İlk olarak sos hazırlanır. Bunun için derin bir kap içerisine yoğurt, zeytinyağı, kırmızı toz biber, kekik, karabiber, tuz ve sarımsak alınarak karıştırılır.\n\n
+        2) Ardından sosun içerisine dondurulmuş piliç kanatlar alınır ve her yeri sosa bulanır. İsteğe göre piliç kanatları çözdürdükten sonra kullanılabilir.\n\n
+        3) Daha sonra soslanan tavuk kanatlar fırın tepsisine sıralanır, kalan sos fırça yardımı ile kanatların üzerine sürülür.\n\n
+        4) Tavuk kanatları 175 derece fırında, üzerleri kızarana kadar yaklaşık 50 dakika kadar pişmeye bırakılır ve servise hazır hale getirilir.\n
+        ]]>
+    </string>
+
+
+    <string name="terbiyeliSuluKofteMalzemeler">
+        <![CDATA[\n
+	Köftesi için:\n
+	\n
+        -> 300 gram az yağlı dana kıyma\n
+	-> 1 yumurta akı(yumurtanın sarısı terbiyesi için kullanılacak)\n
+        -> 2 yemek kaşığı pirinç\n
+        -> 1 yemek kaşığı ince bulgur\n
+        -> 1 adet küçük kuru soğan\n
+        -> 1 çay kaşığı pul biber\n
+        -> 1 çay kaşığı karabiber\n
+        -> 1 çay kaşığı ucuyla kimyon\n
+        -> 1.5 çay kaşığı tuz\n
+        \n
+        Diğer malzemeler:\n
+        \n
+        -> 2 orta boy patates\n
+        -> 2 adet havuç\n
+        -> Yarım çay bardağı sıvı yağ\n
+        -> 6 su bardağı su(su miktarı koyuluğuna göre ayarlanır)\n
+        -> Tuz\n
+        -> Karabiber\n
+        -> İnce kıyılmış maydanoz\n
+	\n
+	Terbiyesi için:\n
+	\n
+	-> 1 adet yumurta sarısı\n
+	-> 3 yemek kaşığı yoğurt\n
+	-> Yarım limonun suyu\n
+        ]]>
+    </string>
+    <string name="terbiyeliSuluKofteYapilisi">
+        <![CDATA[\n
+        1) Öncelikle pirinç yıkanır.\n\n
+        2) Daha sonra kase içerisine koyulup bulgur da ekleyerek üzeri az geçene kadar kaynar su ilavesiyle 20 dakika bekletilir. Ardından suyu süzülür.\n\n
+        3) Patates ve havuç küp şeklinde doğranır.\n\n
+        4) Köftesi için kıyma, rendelenmiş soğan, suyu süzülmüş pirinç̧, ince bulgur, yumurta akı, tuz ve baharatları uygun bir kase içerisine alınıp 10 akika yoğrulur(Yoğurmak çok önemlidir. Eğer az yoğrulursa köfteler pişerken dağılır.).\n\n
+        5) Daha sonra harçtan istenilen büyüklükte parçalar alınır ve yuvarlanır.\n\n
+        6) Tepsi içerisine 2-3 yemek kaşığı un ekleyip yuvarlanmış köfteler içerisine koyulur. Ara ara salınarak köfteler una bulanır.\n\n
+        7) Tencereye sıvı yağ koyulup kızdırılır.\n\n
+        8) Ardından havuçlar eklenip 1-2 dakika kadar sotelenir.\n\n
+        9) Sonra patatesler eklenip 2-3 tur karıştırıldıktan sonra üzerine sıcak su eklenir. Su kaynamaya başlayınca köfteler teker teker ara ara karıştırılarak su içerisine alınır. Çok karıştırılırsa köfteler dağılır.\n\n
+        10) Ocağın altı bir tık kısılarak yemek ağır ağır pişirilir.\n\n
+        11) Köfteler ile sebzeler piştikten sonra ayrı bir kapta yumurta sarısı, limon suyu ve yoğurt pürüzsüz olana denk karıştırılır. Yemek suyundan iki kepçe terbiyesine eklenir ve güzelce karıştırılır.\n\n
+        12) Terbiye yavaş yavaş tencereye eklenirken bir yandan karıştırılır.\n\n
+        13) Bir taşım kaynadıktan sonra tuz ve karabiberi eklenip ocaktan alınır.\n\n
+        14) 15 dakika dinlenme süresinden sonra servis tabağına koyulup üzerine maydanoz serpilir.\n
+        ]]>
+    </string>
+
+
+    <string name="firindaTavukSisMalzemeler">
+        <![CDATA[\n
+        -> 1 kg tavuk incik ya da pirzola\n
+        \n
+        Marinesi için:\n
+        \n
+        -> 3 yemek kaşığı yoğurt\n
+        -> 4 diş sarımsak\n
+        -> 1 yemek kaşığı domates salçası\n
+        -> Yarım çay bardağı sıvı yağ\n
+        -> 1 tatlı kaşığı kekik\n
+        -> 1 tatlı kaşığı pul biber\n
+        -> 1 çay kaşığı kimyon\n
+        -> Tuz\n
+        ]]>
+    </string>
+    <string name="firindaTavukSisYapilisi">
+        <![CDATA[\n
+        1) Öncelikle tavuklar doğranır.\n\n
+        2) Marine için malzemeler derin bi kasede karıştırılıp doğranan tavuklar ilave edilerek karıştırma işlemine devam edilir.\n\n
+        3) Streç filmle kapatılıp buz dolabında en az 1 saat dinlendirilir.\n\n
+        4) Dinlenen tavuklar doğranmış biber ve domateslerle birlikte sırayla şişe dizilip yağlı kağıt serilen tepsiye yerleştirilir.\n\n
+        5) Üzeri, ıslatılan yağlı kağıtla kapatılıp 190 derece fırında 15 dakika pişirilerek arka tarafları çevrilip tekrar fırınlanır.\n\n
+        6) Yağlı kağıt kaldırılarak yeterince kızardığında servise hazır hale gelmiş olur.\n
+        ]]>
+    </string>
+
+
+    <string name="sebzeliKofteMalzemeler">
+        <![CDATA[\n
+        Köftesi için:\n
+        \n
+        -> 450 gr kıyma\n
+        -> 1 adet irice boy kuru soğan\n
+        -> ️Yarım yemek kaşığı domates salçası\n
+        -> 3 tutam kıyılmış maydanoz\n
+        -> 7 dolu yemek kaşığı galeta unu\n
+        -> 2 diş ezilmiş sarımsak\n
+        -> 1 adet yumurta\n
+        -> 1 tatlı kaşığı kırmızı toz biber\n
+        -> 1 tatlı kaşığı acı pul biber\n
+        -> 1 tatlı kaşığı karabiber\n
+        -> 1 tatlı kaşığı kimyon\n
+        -> 1 tatlı kaşığı tuz\n
+	    \n
+	    Diğer malzemeler:\n
+	    \n
+	    -> 4 adet iri kalın boy patlıcan\n
+	    -> 5 adet iri boy patates\n
+	    -> 4-5 adet kapya biberi\n
+	    -> ️10 adet cherry domates veya 2 adet iri domates\n
+	    -> 1 yemek kaşığı tatlı biber salçası\n
+	    -> Yarım yemek kaşığı domates salçası\n
+	    -> 3 su bardağı kaynar su\n
+	    -> 3 diş doğranmış sarımsak\n
+	    -> Karabiber\n
+	    -> Pul biber\n
+	    -> Tuz\n
+        ]]>
+    </string>
+    <string name="sebzeliKofteYapilisi">
+        <![CDATA[\n
+        1) Minicik kıyılmış soğan, maydanoz ve köftelik tüm malzeme yoğurma kabına alınıp 2-3 dakika yoğrulur.\n\n
+        2) Sonra ceviz iriliğinde büyükçe toplar yapılıp biriktirilir.\n\n
+        3) Tavaya yeterince yağ koyulup köfteler güzelce kızartılır ve peçete serilmiş tabağa alınıp bekletilir.\n\n
+        4) Ardından tüm sebzeler köfte boyutundan daha iri olacak şekilde küplere kesilir.\n\n
+        5) Daha sonra kızartılır. Kızartma işlemi için isteğe göre fritöz veya tava kullanılabilir.\n\n
+        6) Kızartılan tüm sebzeler de peçete serilmiş ayrı tabaklara biriktirilir.\n\n
+        7) Domates küçük şekilde doğranır.\n\n
+	    8) Hepsi hazır olunca, genişçe derin ve büyük olan tavanın ya da tencerenin tabanına yağ koymadan patatesler yayılır.\n\n
+	    9) Üzerine patlıcanlar yayılır. Onun da üzerine köfteler yerleştirilir.\n\n
+	    10) Sonra kapya biberleri dizilir.\n\
+	    11) Salçalar bir tasta sıcak su ile çırpılıp yemeğin üzerine gezdirilir.\n\n
+	    12) Ardından baharatları katılır. Son olarak domates ve sarımsak da üzerlerine eklenip kapak örtülür.\n\n
+	    13) Kaynamaya başlayana dek yüksek ateşte ısıtılır.\n\n
+	    14) Fokurdamaya başlayınca kısık ateşte yemek 25 dakika pişirilir ve servise hazır hale gelir.\n
+        ]]>
+    </string>
+
+
+    <string name="sultanKebabiMalzemeler">
+        <![CDATA[\n
+        -> 2,5 adet yufka\n
+        -> 500 gram tavuk göğsü\n
+        -> 1 adet soğan\n
+        -> 2 adet biber\n
+        -> 1 adet kapya biber\n
+        -> 1 kavanoz garnitür\n
+        -> Tuz\n
+        -> Karabiber\n
+        -> Pul biber\n
+        -> Sıvı yağ\n
+	    \n
+	    Beşamel sosu için:\n
+	    \n
+	    -> 2 yemek kaşığı tereyağı\n
+	    -> 2 yemek kaşığı un\n
+	    -> 2 bardak süt\n
+	    -> Karabiber\n
+	    -> Tuz\n
+	    \n
+	    Üzeri için:\n
+	    \n
+	    -> Kaşar peyniri\n
+        ]]>
+    </string>
+    <string name="sultanKebabiYapilisi">
+        <![CDATA[\n
+        1) Öncelikle soğan ve biberler küçük küçük doğranarak sıvı yağ ekleyip kavrulur.\n\n
+        2) Tavuklar yemeklik doğranıp ilave edilir.\n\n
+        3) Tuz, karabiber ve pul biber eklenip karıştırılır.\n\n
+        4) Pişen harca süzüp yıkanan garnitür ilave edilerek harç hazır hale getirilir.\n\n
+        5) Beşamel sos için öncelikle tereyağı eritilip az sıvı yağ eklenir.\n\n
+        6) Ardından un ilave edilip kokusu çıkana kadar kavrulur.\n\n
+        7) 2 su bardağı süt yavaş yavaş ilave edilip çırpılır.\n\n
+	    8) Tuz ve karabiber eklenip kıvam alana kadar pişirilerek beşamel sosu hazır hale getirilir.\n\n
+	    9) 1 adet yufka dört eşit parçaya kesilir.\n\n
+	    10) Orta boy bir kaseye yerleştirilir.\n\n
+	    11) Hazırlanmış olan harçtan içine eklenir ve kenarlardan kapatılarak ters çevrildikten sonra yağlanan fırın kabına dizilir.\n\n
+	    12) En son üzerine beşamel sosu sürülür ve kaşar peyniri serpilir.\n\n
+	    13) Üzeri kızarıncaya kadar ısıtılmış fırında pişirilerek servise hazır hale getirilir.\n
+        ]]>
+    </string>
+
+
+    <string name="patlicanGratenMalzemeler">
+        <![CDATA[\n
+        -> 3 adet patlıcan\n
+        -> 1 büyük soğan\n
+        -> 1 büyük kırmızı kapya biber\n
+        -> 7 adet sivri kıl biber\n
+        -> 3 adet domates\n
+        -> 2 diş sarımsak\n
+        -> 5 yemek kaşığı zeytinyağı\n
+        -> 1 küp şeker\n
+        -> 1 çay kaşığı karabiber\n
+        -> 1 çay kaşığı kırmızı toz biber\n
+        -> 1 çay kaşığı kekik\n
+        -> Tuz\n
+        \n
+        Üzeri için:\n
+        \n
+        -> Kaşar peyniri rendesi\n
+        ]]>
+    </string>
+    <string name="patlicanGratenYapilisi">
+        <![CDATA[\n
+        1) Patlıcanlar yıkanıp iki tarafından alacalı kabuğu soyulur. Küp şeklinde doğrayıp 20 dakika tuzlu suda bekletilir. Tencereye zeytinyağı alınır.\n\n
+        2) Piyazlık doğranmış soğan ve sarımsak ve çok küçük olmayacak şekilde doğranmış biberler eklenip kavrulur.\n\n
+        3) Ardından kabuğu soyulmuş küp küp doğranmış domatesler ve küp şeker eklenip domatesler yumuşayıncaya kadar pişirilir.\n\n
+        4) Tuzlu suda bekletilen patlıcanlar süzülerlek tencereye alınır. Baharatları tuzu ilave edilir.\n\n
+        5) Ocak kısılıp yemek arada karıştırılarak 20 dakika kadar pişirilir. Yemek piştikten sonra fırın kabına alınır.\n\n
+        6) Üzerine rendelenmiş kaşar peyniri serpilir. Önceden ısıtılmış 200 derece fırında peynirler eriyip üzeri kızarana kadar pişirilir ve servise hazır hale gelir.\n
+        ]]>
+    </string>
+
+
+    <string name="pirasaliMucverMalzemeler">
+        <![CDATA[\n
+        -> 500 gr pırasa\n
+        -> 2 adet havuç\n
+        -> 3 yemek kaşığı sıvı yağ\n
+        -> 1 tatlı kaşığı tuz\n
+        -> 1 adet soğan\n
+        -> 1 adet kapya biber\n
+        -> 1 tutam maydanoz\n
+        -> 1 çay bardağı yoğurt\n
+        -> 2 adet yumurta\n
+        -> 1 kase dolusu ufalanmış beyaz peynir\n
+        -> 1 çay bardağı mısır unu\n
+        -> 1 silme tatlı kaşığı tuz\n
+        -> 1 çay kaşığı ucuyla pul biber\n
+        -> 2 yemek kaşığı sıvı yağ\n
+        -> 1 paket kabartma tozu\n
+        -> 1 silme tatlı kaşığı tuz\n
+        -> 1 çay kaşığı kırmızı toz biber\n
+        \n
+        Üzeri için:\n
+        \n
+        -> Çörek otu\n
+        ]]>
+    </string>
+    <string name="pirasaliMucverYapilisi">
+        <![CDATA[\n
+        1) Pırasa ince şekilde doğranır.\n\n
+        2) Havuç rendelenip tencereye alınır.\n\n
+        3) Üzerine 1 tatlı kaşığı tuz ve 3 yemek kaşığı sıvı yağ eklenip sebzeler yumuşayana kadar pişirilir ve soğumaya bırakılır.\n\n
+        4) Soğumuş olan pırasalı karışım geniş bir kabın içerisine alınır.\n\n
+        5) Üzerine yumurta, yoğurt, mısır unu, beyaz peynir küçük küpler halinde doğranmış soğan ve biber, kabartma tozu, sıvı yağ ile tuz ve baharatları da eklenip iyice karıştırılarak harmanlanır.\n\n
+        5) Yağlı kağıt serili fırın tepsisine veya bor cama harç dökülür ve düzeltilir.\n\n
+        6) En sonunda üzerine çörek otu serpiştirilip önceden ısıtılmış 180 derece fırında üzeri kızarana kadar pişirilir ve hazır hale getirilir.\n
+        ]]>
+    </string>
+
+
+    <string name="mantarSoteMalzemeler">
+        <![CDATA[\n
+        -> 500 gr mantar\n
+        -> 1 adet kuru soğan\n
+        -> 2 adet yeşil biber\n
+        -> 1 kahve fincanı sıvı yağ\n
+        -> 1 tatlı kaşığı salça\n
+        -> 1 adet kapya biber\n
+        -> 5 diş sarımsak\n
+        -> 1 çay kaşığı tuz\n
+        -> 1 çay kaşığı kimyon\n
+        -> 1 çay kaşığı kırmızı toz biber\n
+        -> 1 çay kaşığı kekik\n
+        -> Yarım limon\n
+        -> 1 çay bardağı kaynar su\n
+        ]]>
+    </string>
+    <string name="mantarSoteYapilisi">
+        <![CDATA[\n
+        1) Mantarlar yıkanıp kökleri alınarak limonlu suda kararmaması için 5 dakika bekletilir.\n\n
+        2) Sonra ay şeklinde mantarlar doğranır.\n\n
+        3) Soğan, biberler ve sarımsak doğranıp tavaya sıvı yağla birlikte koyularak ocakta kavrulur.\n\n
+        4) Sebzeler kavrulunca üzerine salça ilave edilip tekrar kavurmaya devam edilir.\n\n
+        5) En son mantarlar koyulup 1 çay bardağı suyla kapağı kapatılarak pişmeye bırakılır.\n\n
+        6) Mantar sote pişince en son tuz ve baharatları eklenip 5 dakika kadar daha kaynatılarak ocaktan alınır ve servise hazır hale gelir.\n
+        ]]>
+    </string>
+
+
+    <string name="besamelSosluTavukGuvecMalzemeler">
+        <![CDATA[\n
+        -> 400 gr tavuk göğsü\n
+		-> 1 tane kırmızı dolma biber veya kapya biber\n
+		-> 2 tane orta boy patates\n
+		-> 1 küçük kase haşlanmış bezelye\n
+		-> 1 yemek kaşığından biraz az salça\n
+		-> 2-3 yemek kaşığı sıvı yağ\n
+		-> Yarım çay bardağı ılık su\n
+		-> Tuz\n
+		-> Karabiber\n
+		-> Pul biber\n
+		\n
+		Beşamel sosu için:\n
+		\n
+		-> 2 yemek kaşığı margarin ya da tereyağı\n
+		-> 1.5 yemek kaşığı un\n
+		-> 1.5 su bardağından biraz fazla süt\n
+		-> Tuz\n
+		\n
+		Üzeri için:\n
+		\n
+		-> Kaşar peyniri\n
+        ]]>
+    </string>
+    <string name="besamelSosluTavukGuvecYapilisi">
+        <![CDATA[\n
+        1) Tavuk eti küp küp doğranır.\n\n
+		2) Bir tavaya yağ koyulup et kavrulur. Suyunu çekmeye yakın biber ilave edilip 1-2 dakika kavrulur.\n\n
+		3) Daha sonra salça ilave edilip karıştırılır.\n\n
+		4) Suyu, bezelyesi ve baharatları ilave edilip 1-2 dakika daha karıştırılır. 1 kere kaynatıldıktan sonra altı kapatılır.\n\n
+		5) Patatesler küp küp doğranıp kızartılır.\n\n
+		6) Çanaklara veya herhangi bir fırın kabına koyulur.\n\n
+		7) Beşamel sosu için bir tavada yağ eritilir ve unun kokusu çıkana kadar kavrulur.\n\n
+		8) Daha sonra süt ve tuz ilave edilip karıştırılır.\n\n
+		9) Kaynayana kadar karıştırılıp kaynadıktan sonra ocaktan alınır.\n\n
+		10) Çanaklara koyulan yemeğin üstüne 1 kepçe kadar beşamel sos koyulur.\n\n
+		11) Üzerine kaşar peyniri serpilip önceden ısıtılmış 250 derece fırında üstü kızarana kadar pişirilir ve hazır hale gelir.\n
+        ]]>
+    </string>
+
+
+
+    <string name="mayasizUcgenPisiMalzemeler">
+        <![CDATA[\n
+        -> 1 çay bardağı süt\n
+		-> 2 adet yumurta\n
+		-> 1 çay kaşığı tuz\n
+		-> 1 çay bardağı rendelenmiş kaşar peyniri\n
+		-> 1 çay bardağı beyaz peynir\n
+		-> 8-10 dal maydanoz\n
+		-> 1 paket kabartma tozu\n
+		-> 3 su bardağı un\n
+        ]]>
+    </string>
+    <string name="mayasizUcgenPisiYapilisi">
+        <![CDATA[\n
+        1) Hamuru yoğurmak için uygun bir kap içerisine süt, yumurta ve tuz eklenerek çırpıcı ile güzelce çırpılır.\n\n
+		2) Üzerine beyaz peynir, kaşar peyniri, ince ince kıyılan maydanoz, kabartma tozu ve unun bir kısmı alınarak hamur yoğrulmaya başlanır.\n\n
+		3) Çok sert olmayan ve ele yapışmayan bir hamur hazırladıktan sonra hamur un serpilen tezgaha alınır ve toparlanır.\n\n
+		4) Hamur 2 eşit parçaya ayırılır ve beze haline getirilir. Bezenin bir tanesi alınır ve el ile bastırılarak azıcık genişletilir.\n\n
+		5) Ardından merdane yardımı ile daire şeklinde açılır. Yaklaşık yarım cm kalınlığında olacak şekilde açılan hamur bıçak ya da pizza kesici ile 8 dilim olacak şekilde kesilir. Diğer beze de aynı şekilde hazırlanır.\n\n
+		6) Tavaya sıvı yağ alınarak ısıtılır ve kesilen üçgen hamurlar daire şeklinde tavaya sıralanarak kızartılır.\n\n
+		7) Orta ateşte kızartılan hamurların diğer tarafı da çevrilir ve kızarması sağlanır.\n\n
+		8) Kızaran pişiler servis tabağına alınır ve sıcak sıcak servis edilir.\n
+        ]]>
+    </string>
+
+
+
+    <string name="firindaPacangaBoregiMalzemeler">
+        <![CDATA[\n
+        -> 2 adet yufka(artırılabilir)\n
+        -> 2 adet küçük boy köy biberi\n
+        -> 1 adet büyük boy domates\n
+        -> 150 gr rendelenmiş kaşar peyniri\n
+        -> 10 dilim pastırma (90 gram)\n
+        \n
+        Sosu için:\n
+        \n
+        -> Yarım çay bardağı sıvı yağ\n
+        -> Yarım çay bardağı su\n
+        \n
+        Üzeri için:\n
+        \n
+        -> 1 adet yumurta sarısı\n
+        -> Yarım çay bardağı süt\n
+        -> Galeta unu\n
+        ]]>
+    </string>
+    <string name="firindaPacangaBoregiYapilisi">
+        <![CDATA[\n
+        1) Biber ve domatesler, minik minik doğranır.\n\n
+        2) Pastırma küçük parçalara ayrılır.\n\n
+        3) Doğranan sebzeler, kaşar ve pastırma karıştırılır.\n\n
+        4) Yufka, 4 eşit üçgen parçaya bölünür.\n\n
+        5) 8 tane üçgen elde edilir.\n\n
+        6) Uygun bir kapta sıvı yağ ve su karıştırılarak, üçgen parçaya sürülür.\n\n
+        7) Üçgen parçanın geniş kenarına pastırmalı harçtan konularak, geniş şekilde sarılır.\n\n
+        8) Yumurta sarısı ve süt karıştırılır.\n\n
+        9) Sarılan börekler önce karışıma, sonra galeta ununa batırılarak pişirme kağıdı serili tepsiye dizilir.\n\n
+        10) Önceden 180 derecede ısıtılmış fırında, yaklaşık 30 dakika pişirilerek hazır hale getirilir.\n
+        ]]>
+    </string>
+
+
+
+    <string name="kiymaliMiniPideMalzemeler">
+        <![CDATA[\n
+        Hamuru için:\n
+        \n
+        -> 4 su bardağı un\n
+        -> 1 paket instant maya\n
+        -> 2 silme tatlı kaşığı tuz\n
+        -> 1 tatlı kaşığı şeker\n
+        -> 2 su bardağı ılık su\n
+        \n
+        Kıymalı harç için:\n
+        \n
+        -> 500 gr kıyma\n
+        -> 1 adet yeşil biber\n
+        -> 1 adet kırmızı biber\n
+        -> 1 adet soğan\n
+        -> 1 tatlı kaşığı biber salçası\n
+        -> 1 tatlı kaşığı domates salçası\n
+        -> Karabiber\n
+        -> Pul biber\n
+        -> Toz kırmızı biber\n
+        -> Tuz\n
+        -> 1 yemek kaşığı sıvı yağ\n
+        \n
+        Üzeri için:\n
+        \n
+        -> Yumurta sarısı\n
+        \n
+        Kenarlarına sürmek için:\n
+        \n
+        -> Tereyağı\n
+        ]]>
+    </string>
+    <string name="kiymaliMiniPideYapilisi">
+        <![CDATA[\n
+        1) Pidenin hamuru için yoğurma kabına alınan unun ortası havuz şeklinde çukurlaştırılır.\n\n
+        2) Açılan çukurun içerisine instant maya, tuz, şeker ve su dökülür.\n\n
+        3) Kenarlarından un alınarak el ile hamur yoğrulmaya başlanır. Elde edilen hamurun yumuşak ve biraz ele yapışan bir kıvamda olması gerekmektedir.\n\n
+        4) Hamur toparlandıktan sonra üzeri streç film ile kapatılır ve üzerine temiz bir bez örterek 30 dakika kadar mayalanmaya bırakılır.\n\n
+        5) Hamur mayalanırken bir yandan iç harç hazırlanır. Bunun için karıştırma kabına alınan kıymanın üzerine, doğranılan yeşil ve kırmızı biber, soğan, biber salçası, domates salçası, karabiber, pul biber, toz kırmızı biber, tuz ve sıvı yağı eklenerek el ile güzelce yoğrulur.\n\n
+        6) Mayalanan hamurun üzeri açılır, unlanan tezgaha alınır. Havasının çıkması için bir kaç kez daha yoğrulur.\n\n
+        7) Ardından hamur 2 eşit parçaya, o parçalar da 8 eşit parçaya bölünerek beze haline getirilir. Toplamda 16 adet beze elde edilir.\n\n
+        8) Bezeler tek tek tezgaha alınır ve üzerine el ile biraz bastırıldıktan sonra merdane yardımı ile uzunlamasına olacak şekilde açılır. Tüm bezeler bu şekilde açılır ve pişirme kağıdı yerleştirilen fırın tepsiye alınır. Bir tepsiye 6 ya da 8 adet sığmaktadır. Bu sebeple bunların iç harcı konularak pişmeye bırakılır. Diğer yandan kalanlar hazırlanılır.\n\n
+        9) Açılan pidelerin ortasına, kenarlarında biraz boşluk kalacak şekilde iç harçtan yerleştirilir. Kenar kısımlar iç harcın üzerine gelecek şekilde katlanır. Uçlarının açılmaması için üst üste getirilerek bastırılır.\n\n
+        10) Hazırlanılan pidelerin kenarlarına çırpılan yumurta sarısından sürülür.\n\n
+        11) Fırına girmeye hazır olan pideler 190°C fırında güzelce kızarana kadar yaklaşık 25 dakika pişmeye bırılır. Bu sırada aynı adımlar uygulanarak diğer tepsi hazırlanır.\n\n
+        12) Fırından çıkan pidelerin kenarlarına tereyağı sürülüp bir bez ile kapatılarak yumuşamaları sağlanır ve servise hazır hale getirilir.\n
+        ]]>
+    </string>
+
+
+
+    <string name="peynirliPankekMalzemeler">
+        <![CDATA[\n
+        -> 1 adet yumurta\n
+        -> 1 su bardağı süt\n
+        -> 150 gr beyaz peynir\n
+        -> Biraz maydanoz\n
+        -> Pul biber\n
+        -> 1 paket kabartma tozu\n
+        -> 10 yemek kaşığı un\n
+        -> 1 çay kaşığı tuz\n
+        ]]>
+    </string>
+    <string name="peynirliPankekYapilisi">
+        <![CDATA[\n
+        1) Karıştırma kabına 1 yumurta ve süt alınıp çırpılır.\n\n
+        2) İçine sırasıyla ufalanmış peynir, pul biber, tuz, ince doğranmış maydanoz, un ve kabartma tozu eklenip iyice karıştırılır.\n\n
+        3) Tava yağlanıp kızdırılır. Hamurdan birer yemek kaşığı tavaya koyulup arkalı önlü kızartılır.\n\n
+        4) Her defasında tava hafif yağlanır. Hamur bitinceye kadar aynı işlem yapılır ve hazır hale gelir.\n
+        ]]>
+    </string>
+
+
+
+    <string name="miniBazlamaMalzemeler">
+        <![CDATA[\n
+        -> 1 çay bardağı yoğurt\n
+        -> 1 su bardağı ılık su\n
+        -> 1 çay kaşığı tuz\n
+        -> 1 paket kabartma tozu\n
+        -> 4 su bardağı un\n
+        \n
+        Üzeri için:\n
+        \n
+        -> 2 yemek kaşığı tereyağı\n
+        -> 1 avuç maydanoz\n
+        ]]>
+    </string>
+    <string name="miniBazlamaYapilisi">
+        <![CDATA[\n
+        1) Uygun bir kap içerisine yoğurt, ılık su ve tuz alınarak güzelce karıştırılır.\n\n
+        2) Ardından unun bir kısmı ve kabartma tozu ilave edilerek tekrar karıştırılır.\n\n
+        3) Unun geri kalanı da yavaş yavaş eklenir ve el ile yoğrulmaya başlanır.\n\n
+        4) Tezgah unlanır ve hamur tezgaha alınır. Bir kaç kez de burada yoğurarak toparlanır.\n\n
+        5) Daha sonra rulo haline getirilir ve eşit bir şekilde 12 parçaya bölündükten sonra el ile yuvarlayarak beze haline getirilir.\n\n
+        6) Hazırlanan bezeler hafifçe unlanan tabak içerisine alınır. Üzerleri streçlenerek 15 dakika kadar dinlenmeye bırakılır.\n\n
+        7) Bezeler dinlendikten sonra bir tanesi unlanan tezgah üzerine alınır ve el ile bastırılarak genişletilir. Diğer bezelere de aynı işlem uygulanır.\n\n
+        8) Ocağa alınıp ısıtılan teflon tavanın içerisine hazırlanan hamurlar yerleştirilir.\n\n
+        9) Hamurlar kabarıp altı kızarınca ters çevrilir ve pişirmeye devam edilir.\n\n
+        10) Altı üstü kızaran bazlamalar havlu kağıt serilen tabak içerisine alınır ve hazır hale gelir.\n
+        ]]>
+    </string>
+
+
+
+    <string name="cubukPisiMalzemeler">
+        <![CDATA[\n
+        -> 1 çay bardağı süt\n
+        -> 1 adet yumurta\n
+        -> 1 tatlı kaşığı tuz\n
+        -> 1 su bardağı rendelenmiş kaşar peyniri\n
+        -> 1 çay bardağı beyaz peynir\n
+        -> 8-10 dal maydanoz\n
+        -> 1 paket kabartma tozu\n
+        -> 2.5 su bardağı un\n
+        \n
+        Kızartmak için:\n
+        \n
+        -> 1 çay bardağı sıvı yağ\n
+        ]]>
+    </string>
+    <string name="cubukPisiYapilisi">
+        <![CDATA[\n
+        1) Bir yoğurma kabına süt, yumurta ve tuz alınarak karıştırılır.\n\n
+        2) Üzerine rendelenmiş kaşar peyniri, beyaz peynir, maydanoz, kabartma tozu ve un ilave edilerek karıştırılır.\n\n
+        3) Biraz karıştırdıktan sonra el ile hamur yoğrulmaya başlanır. Ele yapışmayan yumuşak kıvamlı bir hamur elde edilir.\n\n
+        4) Pişirme kağıdından bir parça alınarak tezgah üzerine serilir.\n\n
+        5) Ardından yoğrulan hamur pişirme kağıdının ortasına alınır. El ile biraz bastırıldıktan sonra tekrar bir pişirme kağıdıyla üzeri kapatılarak merdane yardımı ile hamur yarım santim kalınlığında açılır.\n\n
+        6) Daha sonra hamur pizza ruleti yardımı ile ince uzun şeritler halinde dilimlenir.\n\n
+        7) Sağ ve soldaki hamur parçaları bir kenara ayrılır ve kalan şeritler birbirlerine eşit olacak şekilde 3 parçaya kesilir.\n\n
+        8) Ayrılan hamur parçaları da diğerleri ile aynı boyutta olacak şekilde kesilir.\n\n
+        9) Tavaya alınıp kızdırılan yağa çubuk pişiler alınarak kontrollü bir şekilde kızartılır.\n\n
+        10) İki tarafı da güzelce kızaran pişiler kağıt havlu serilen tabağa alınarak servis edilir.\n
+        ]]>
+    </string>
+
+
+
+    <string name="mayasizTelGozlemeMalzemeler">
+        <![CDATA[\n
+        Hamuru için:\n
+        \n
+        -> 6 su bardağı + 2 yemek kaşığı un\n
+        -> 2.5 su bardağı ılık su\n
+        -> 2 tatlı kaşığı tuz\n
+        \n
+        Yağlamak için:\n
+        \n
+        -> Yeterince sıvı yağ\n
+        ]]>
+    </string>
+    <string name="mayasizTelGozlemeYapilisi">
+        <![CDATA[\n
+        1) Hamur malzemeleri bir kaba alınır ve ele yapışmayacak orta yumuşaklıkta bir hamur yoğurulur.\n\n
+        2) Hamur 9-10 bezeye ayırılır.\n\n
+        3) Bir merdane veya oklavayla bezeler tek tek ince bir şekilde açılır.\n\n
+        4) Açılan yufkaların üzerlerine yağ gezdirilerek yufkaların her yerine yedirilir.\n\n
+        5) Yufka bir ucundan tutularak yarım ay olacak şekilde ortaya doğru katlanır.\n\n
+        6) Katlanılan yere tekrar yağ sürülür.\n\n
+        7) Kalan taraf üzerine kapatılır.\n\n
+        8) Kapatılan yere yağ sürülür(yağlanmamış yer kalmamasına dikkat edilmelidir). Ardından kalan tarafların biri tekrar ortaya doğru katlanıp yağlanır. En son kalan uç da onun üzerine kapatılır ve yağlanmaz.\n\n
+        9) Bütün yufkalar bitene kadar aynı işlem uygulanır.\n\n
+        10) Katlanarak kare haline getirilmiş yufkalar çok bastırılmadan hafif büyütülür.\n\n
+        11) Tava hafifçe yağlanarak gözlemeler orta ateşte arkalı önlü pişirilir. Tel tel ayrılan çıtır gözlemeler hazır hale gelir.\n
+        ]]>
+    </string>
+
+
+
+    <string name="ruloMilfoyMalzemeler">
+        <![CDATA[\n
+        -> 6 adet milföy hamuru\n
+        -> 3 adet yeşil biber\n
+        -> 2 adet domates\n
+        -> 1.5 su bardağı kaşar peyniri rendesi\n
+        -> 80 gr sucuk\n
+        -> 90 gr labne peyniri\n
+        ]]>
+    </string>
+    <string name="ruloMilfoyYapilisi">
+        <![CDATA[\n
+        1) Bir karıştırma kabına küçük küçük doğranan sucuklar, domatesler, yeşil biber, rendelenmiş kaşar peyniri ve labne peyniri alınarak güzelce karıştırılır.\n\n
+        2) Oda sıcaklığına gelen milföy hamuru merdane yardımı ile genişletilir ve üzerine hazırlanan karışım ince bir katman olacak şekilde sürülür.\n\n
+        3) Ardından milföy rulo şeklinde sarılır ve bir kenara alınır. Diğer milföy hamurları da aynı şekilde hazırlanır.\n\n
+        4) Hazırlanan rulolar streç serilen bir tabak içerisine alınarak 10 dakika kadar dondurucuda dinlendirilir. Bu şekilde dilimleme işlemi daha kolay yapılacaktır.\n\n
+        5) Sürenin sonunda rulolar dolaptan alınır ve birer parmak kalınlığında olacak şekilde dilimlenir.\n\n
+        6) Pizza dilimleri fırın tepsisine aralıklı olacak şekilde dizilir ve önceden ısıtılmış 190°C fırında yaklaşık 20 dakika pişmeye bırakılarak hazır hale getirilir.\n
+        ]]>
+    </string>
+
+
+
+    <string name="kahvaltiEkmegiMalzemeler">
+        <![CDATA[\n
+        -> 1 paket yaş maya\n
+        -> 1.5 tatlı kaşığı toz şeker\n
+        -> 1 su bardağı ılık süt\n
+        -> 2 adet yumurta\n
+        -> 50 gr tereyağı(oda ısısında)\n
+        -> 1 su bardağı yarım yağlı beyaz peynir\n
+        -> Maydanoz\n
+        -> 1 tatlı kaşığı tuz\n
+        -> 4.5 su bardağı un\n
+        \n
+        Üzeri için:\n
+        \n
+        -> 1 adet yumurta sarısı\n
+        -> Susam\n
+        ]]>
+    </string>
+    <string name="kahvaltiEkmegiYapilisi">
+        <![CDATA[\n
+        1) Ekmeğin hamuru için yoğurma kabına maya, şeker ve ılık süt alınır. Maya çözülene kadar karıştırılır. İsteğe göre yaş maya yerine 1 yemek kaşığı kuru maya kullanılabilir.\n\n
+        2) Yoğurma kabının üzeri streç film ile örtülerek 5 dakika kadar mayanın aktifleşmesi sağlanır.\n\n
+        3) Daha sonra yumurta, tereyağı, beyaz peynir, doğranılan maydanoz ve tuz da ilave edilerek yoğurmaya başlanır.\n\n
+        4) Un da kontrollü bir şekilde ilave edilerek hamur yoğrulmaya devam edilir.\n\n
+        5) Yoğrulan hamur biraz ele yapışan bir kıvamda olmalıdır. Hamur unlanan tezgaha alınarak toparlanır.\n\n
+        6) Hamurun üzerine el ile bastırılarak tepsi boyutunda açılır.\n\n
+        7) Sonrasında tepsinin içerisine pişirme kağıdı yerleştirilir ve 32 cm çapındaki tepsiye açılan hamur yerleştirilir.\n\n
+        8) Hamurun üzerine tekrar el ile bastırılarak tepsiye yerleşmesi sağlanır.\n\n
+        9) Tepsiye güzelce yerleşen hamurun üzerine temiz bir bez örtülerek 45 dakika mayalanmaya bırakılır.\n\n
+        10) Güzelce kabaran ekmek istenilen şekilde dilimlenir.\n\n
+        11) Daha sonra yumurta sarısı her yerine gelecek şekilde ekmeğin üzerine sürülür.\n\n
+        12) Bolca susam serpilir ve 170°C fırında yaklaşık 35 dakika pişirilerek hazır hale gelir.\n
+        ]]>
+    </string>
+
+
+
+    <string name="sodaliDilimBorekMalzemeler">
+        <![CDATA[\n
+        -> 5 adet yufka\n
+        \n
+        Sosu için:\n
+        \n
+        -> 1 adet yumurta\n
+        -> 4 yemek kaşığı yoğurt\n
+        -> 100 gr eritilmiş tereyağı\n
+        -> 1 çay bardağı süt\n
+        -> 1 çay bardağı sıvı yağ\n
+        -> 1 su bardağı soda\n
+        -> 2 su bardağı beyaz peynir\n
+        -> 3 su bardağı kaşar peyniri\n
+        -> Yarım demet maydanoz\n
+        -> 1 paket kabartma tozu\n
+        \n
+        Üzeri için:\n
+        \n
+        -> 1 adet yumurta\n
+        -> 1 yemek kaşığı yoğurt\n
+        ]]>
+    </string>
+    <string name="sodaliDilimBorekYapilisi">
+        <![CDATA[\n
+        1) Böreğin sosu için yumurta, yoğurt, eritilmiş tereyağı, süt, sıvı yağ ve soda çırpma kabına alınarak malzemeler güzelce karışana kadar tel çırpıcı ile çırpılır.\n\n
+        2) Ardından üzerine beyaz peynir, kaşar peyniri rendesi, kıyılmış maydanoz ve kabartma tozu da ilave edilerek karıştırılır.\n\n
+        3) Tezgahın üzerine yufkadan bir tanesi serilir. Üzerine hazırlanan sostan gezdirilir.\n\n
+        4) Üzerine 2. kat yufka da serilir ve tekrar sosdan gezdirilerek her yerine gelmesi sağlanır. Yufkalar bitene kadar soslayarak üst üste sermeye devam edilir.\n\n
+        5) Son kat yufka da serilip iç harcı yayıldıktan sonra yufkalar çok sıkı olmayacak şekilde rulo haline getirilir.\n\n
+        6) Hazırlanan rulo 3 eşit parçaya bölünür. Tezgahın üzerine alınan streç filmin ortasına börek parçalarından bir tanesi alınıp saralım. Diğer parçalar için de aynı işlemi uygulanır ve 1 saat kadar buzdolabında dinlenmeye bırakılır.\n\n
+        7) Dinlenen börek dolaptan alınır ve dilimlenerek pişirme kağıdı serilen fırın tepsisine yerleştirilir. Eğer böreklerin hepsi tüketilmeyecekse dilimlenip birbirine değmeyecek şekilde fermuarlı poşete yerleştirilerek dondurucuya kaldırılabilir.\n\n
+        8) Tepsiye yerleştirilen böreklerin üzerine sürmek için uygun bir kasede yoğurt ve yumurta çırpılır.\n\n
+        9) Daha sonra börek dilimlerinin üzerine sürülerek önceden ısıtılmış 200°C fansız fırında yaklaşık 40 dakika pişmeye bırakılır.\n\n
+        10) Sürenin sonunda altı üstü güzelce kızaran börekler fırından alınır ve ilk sıcağı çıktıktan sonra servis edilir.\n
+        ]]>
+    </string>
+
+
+
+    <string name="susamliSimitPogacaMalzemeler">
+        <![CDATA[\n
+        Hamuru için:\n
+        \n
+        -> 1 su bardağı ılık süt\n
+        -> 1 su bardağı ılık su\n
+        -> 1 çay bardağı sıvı yağ\n
+        -> 1 paket instant maya\n
+        -> 1 yemek kaşığı toz şeker\n
+        -> 1 tatlı kaşığı tuz\n
+        -> 1 adet yumurta\n
+        -> 5 su bardağı un\n
+        \n
+        İçi için:\n
+        \n
+        -> Kaşar peyniri\n
+        \n
+        Üzeri için:\n
+        \n
+        -> 6 yemek kaşığı üzüm pekmezi\n
+        -> Yarım çay bardağı su\n
+        -> Kavrulmuş susam\n
+        ]]>
+    </string>
+    <string name="susamliSimitPogacaYapilisi">
+        <![CDATA[\n
+        1) Hamur için yoğurma kabına ılık süt, ılık su, yumurta, sıvı yağ ve tuz alınarak güzelce karıştırılır.\n\n
+        2) Unun bir kısmı, instant maya ve toz şekeri de eklenerek hamur spatula ile karıştırılır.\n\n
+        3) Ardından yavaş yavaş un eklenerek yoğrulmaya başlanır.\n\n
+        4) Kıvam alan hamur unlanan tezgaha alınıp toparlanır. Kıvamından dolayı hamur tezgaha yapışacaktır. Hamur kazıyıcı ile rahatça toparlanabilir.\n\n
+        5) Hamur tekrar yoğurma kabına alınıp streçlenir. Temiz bir bez örtülerek 45 dakika kadar mayalanmaya bırakılır.\n\n
+        6) İç harcı için kaşar peyniri küçük küpler halinde doğranır.\n\n
+        7) Sürenin sonunda mayalanan hamur tezgaha alınır ve tekrar toparlanır.\n\n
+        8) Hazır olan hamur eşit parçalara bölünüp el ile beze haline getirilir ve temiz bir bez üzerine alınır.\n\n
+        9) Üzeri için karıştırma kabına pekmez ve su alınarak karıştırılır.\n\n
+        10) Bezelerden bir tanesi alınıp el ile genişletilir. Ortasına kaşar peyniri konulduktan sonra hamura yuvarlayarak şekil verilir. Hamur bitinceye kadar bu işlemler tekrarlanır.\n\n
+        11) Şekil verme işleminden sonra poğaçalar önce pekmezli karışıma ardından kavrulmuş susama batırılır ve pişirme kağıdı serilen fırın tepsisine yerleştirilir. Diğer hamurlar için de aynı işlemler tekrarlanır.\n\n
+        12) Son olarak poğaçaların üzerine çizikler atılır ve önceden ısıtılmış 180° alt üst fansız fırında 30 dakika kadar pişmeye bırakılarak hazır hale getirilir.\n
+        ]]>
+    </string>
+
+
+
+    <string name="patatesliGozlemeMalzemeler">
+        <![CDATA[\n
+        -> 6 su bardağı un\n
+        -> 1 tatlı kaşığı kuru maya\n
+        -> Yarım su bardağı ılık su(maya için)\n
+        -> 1.5 tatlı kaşığı tuz\n
+        -> 2 su bardağı ılık su\n
+        \n
+        İç harcı için:\n
+        \n
+        -> 3 yemek kaşığı sıvı yağ\n
+        -> 1 adet soğan\n
+        -> 1 yemek kaşığı domates salçası\n
+        -> Tuz\n
+        -> Pul biber\n
+        -> Karabiber\n
+        -> 6 adet haşlanmış patates\n
+        \n
+        Üzeri için:\n
+        \n
+        -> Tereyağı\n
+        ]]>
+    </string>
+    <string name="patatesliGozlemeYapilisi">
+        <![CDATA[\n
+        1) Yoğurma kabına alınan unun ortası havuz şeklinde açılır.\n\n
+        2) Açılan havuza kuru maya ve ılık su ilave edilir.\n\n
+        3) El ile hafifçe karıştırılır ve 5 dakika kadar mayanın aktifleşmesi için beklenir.\n\n
+        4) Daha sonra tuz ilave edilir ve yavaş yavaş hamur yoğrulmaya başlanır.\n\n
+        5) Ilık su da azar azar eklenerek hamur yoğrulur. Ele yapışmayan yumuşak kıvamlı bir hamur elde edilir.\n\n
+        6) Hamurun üzeri streç film ile örtülerek iç harcı hazırlanıncaya kadar mayalandırılır.\n\n
+        7) İç harcı için tavaya sıvı yağı alınır. Üzerine rendelenmiş soğan ilave edilerek kavurmaya başlanır.\n\n
+        8) Domates salçası, tuz, pul biber ve karabiber eklenip 1-2 dakika kavrulur.\n\n
+        9) Haşlanıp ezilen patates ilave edilip güzelce karıştırılır.\n\n
+        10) Ocak kapatılarak patatesli iç harç soğumaya bırakılır.\n\n
+        11) Hamur tezgahın üzerinde toparlanarak 8 eşit parçaya bölünür ve bezeler oluşturulur.\n\n
+        12) Unlanmış tezgahın üzerinde her bir beze açılabildiği kadar açılır.\n\n
+        13) Yaklaşık olarak servis tabağından biraz daha büyükçe açılan hamurun yarısına hazırlanan patatesli iç harçtan yerleştirilir.\n\n
+        14) D şeklinde kapatılıp kenar kısımlarına hafifçe bastırılır.\n\n
+        15) Bu şekilde hazırlanan gözlemeler elektrikli saçta veya tavada çevrilerek her iki tarafı da güzelce pişirilir.\n\n
+        16) Pişen gözlemelerin üzerine sıcağı ile tereyağı sürülür ve hazır hale getirilir.\n
+        ]]>
+    </string>
+
+
+
+    <string name="kahvaltilikKrepMalzemeler">
+        <![CDATA[\n
+        -> 2 adet yumurta\n
+        -> 2 su bardağından biraz az un\n
+        -> 2 su bardağı süt(isteğe göre yarı yarıya süt ve su karışık kullanılabilir)\n
+        -> 1 çay kaşığı tuz\n
+        -> Tereyağı\n
+        -> Sıvı yağ\n
+        ]]>
+    </string>
+    <string name="kahvaltilikKrepYapilisi">
+        <![CDATA[\n
+        1) Öncelikle un, süt ve su ile hiç topak kalmayana kadar iyice çırpılır.\n\n
+        2) Yumurtalar eklenerek biraz daha çırpılır. Kek hamurundan daha akıcı bir kıvamda hamur elde edilir.\n\n
+        3) Teflon tavaya 1 çay kaşığı kadar tereyağı veya sıvı yağ koyulup fırça ile yayılır.\n\n
+        4) Kızgın tavaya 1 kepçe krep hamuru dökülür ve sağa sola eğerek yayılır.\n\n
+        5) Her iki tarafı da çevrilerek hafif kızarana kadar orta ateşte pişirilir. Tüm harç bitene kadar bu işleme devam edilir ve krep hazır hale getirilir.\n
+        ]]>
+    </string>
+
+
+
+</resources>
